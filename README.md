@@ -2,10 +2,10 @@
 <hr>
 
 - 🔭 Atualmente interessado em oportunidades para trabalhar com desenvolvimento 
-- 🌱 Atualmente estou aprendendo python e flask
+- 🌱 Atualmente estou aprendendo Java e Spring Boot
 - 📫 Caso queira entrar em contato: gabigol_96@icloud.com
 - 🥳 Entusiasmado por aprender a trabalhar com tecnologia 
-- 🧐 Buscando a fluencia em python, Mas 👀 outras linguagens 
+
 <hr>
 
 <div>
